@@ -11,7 +11,7 @@ using std::endl;
 using std::to_string;
 
 
-    float cookiesPrice = 2.00; //defining cosntants
+    float cookiesPrice = 2.00; //defining constants
     float sodaPrice = 2.50;
     float chocolatePrice = 1.75;
     float chipsPrice = 1.50;
